@@ -4,6 +4,9 @@ Welcome to the simple Web Calculator project! This is a basic calculator applica
 
 🚀Features:
 -Addition,Subtraction,Multiplication, and Division operations.
+
 -AC button to reset the input.
+
 -Responsive design for a seamless expeience on various devices.
+
 Happy calculating!👍
